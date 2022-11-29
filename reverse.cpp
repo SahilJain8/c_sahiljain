@@ -34,3 +34,32 @@ int main()
   }
   delete(arr);
     return 0;
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ //for vector<int>
+ 
+ 
+//  #include <bits/stdc++.h> 
+// void reverseArray(vector<int> &arr , int m)
+// {
+// 	int start=m+1,end=arr.size()-1;
+//     int temp=0;
+//     while(start<end){
+//         temp=arr[start];
+//         arr[start]=arr[end];
+//         arr[end]=temp;
+//         start++;
+//         end--;
+        
+//     }
+    
+
+// }
